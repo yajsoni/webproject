@@ -267,4 +267,23 @@ footer p{
         height: auto;
         margin-top: 3rem 0;
     }
+    .tempInformation{
+        width: 30rem;
+        margin: auto;
+        min-height: 28rem;
+        background-color: #323544;
+        border-radius: 1rem;
+        padding: 1rem;
+        font-family: "roboto", sans-serif;
+    }
+    .main_layer .middle_layer p,
+    .main_layer .middle_layer .fa{
+    font-size: 3rem;
+    font-weight: 900;
+    }
+    .temp_form{
+        width: 90%;
+        position: relative;
+        margin: 5rem auto 6rem;
+    }
 }
